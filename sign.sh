@@ -1,4 +1,5 @@
 #/bin/bash
+# @404death
 
 #  signing after recompile the apk
 # ./sign.sh file.apk outfile.apk
