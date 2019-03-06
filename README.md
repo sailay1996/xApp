@@ -1,6 +1,6 @@
 # xApp
 
-	**for sign after recompile apk.**
+**just a small script for sign after recompile apk.**
 
 decompile apk 
 
@@ -13,3 +13,5 @@ recompile apk
 sign recompiled apk 
 
 	./sign.sh recompiled.apk outfilename.apk 
+
+ 
